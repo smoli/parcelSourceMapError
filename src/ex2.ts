@@ -19,7 +19,6 @@ export class EX2 {
         doSome();
 */
         console.log("DEBUG!")
-        alert("You clicked!")
         doSome();
         doSome();
         doSome();

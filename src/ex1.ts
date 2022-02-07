@@ -21,7 +21,6 @@ export class EX1 {
         await doSome();
 */
         console.log("DEBUG!")
-        alert("You clicked!")
         await doSome();
         await doSome();
         await doSome();
