@@ -1,0 +1,20 @@
+{
+  "name": "parcelSourceMaps",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "startNoHMR": "parcel ./src/index.html --no-hmr"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.2.29",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@parcel/transformer-vue": "^2.2.1",
+    "parcel": "^2.2.1"
+  }
+}
